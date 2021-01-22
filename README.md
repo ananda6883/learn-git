@@ -1,6 +1,7 @@
 # learn-git
 Repository for learning git commands.
 
-
-This is my first comment in the file.
-another line of code.
+### What is this project is all about?
+* A place to practice all git commands
+* Playground for understanding local repo and remote repo
+* for everything else...
